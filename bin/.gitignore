@@ -1,0 +1,16 @@
+/.DS_Store
+/Asteroid.class
+/AsteroidSpecs.class
+/AsteroidsGame.class
+/Bullet.class
+/GameConstants.class
+/GameDriver.class
+/GameUtils.class
+/Point.class
+/Pose.class
+/Saucer.class
+/Ship.class
+/Sprite.class
+/Star.class
+/StdDraw.class
+/Vector2D.class
